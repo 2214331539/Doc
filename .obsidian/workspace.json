@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自媒体/抖音/期末周skill.md",
+                "file": "主线支线任务/临时线.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "期末周skill"
+              "title": "临时线"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -94,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信息系统/可以随手逛逛的网站.md",
-                "collapseAll": false,
+                "file": "主线支线任务/临时线.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "可以随手逛逛的网站 的反向链接列表"
+              "title": "临时线 的反向链接列表"
             }
           },
           {
@@ -156,21 +156,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信息系统/可以随手逛逛的网站.md",
+                "file": "主线支线任务/临时线.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "可以随手逛逛的网站 的大纲"
+              "title": "临时线 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,24 +185,50 @@
   },
   "active": "b134c71373890d5a",
   "lastOpenFiles": [
-    "日记/2026-06-06.md",
-    "开发技术/开发工作流/Web 项目标准开发工作流.md",
-    "自媒体/抖音/期末周skill.md",
-    "开发技术/开发工作流",
-    "开发技术/分布式数据库/期末复习篇.md",
-    "自媒体/抖音",
-    "自媒体",
-    "2026-06-06.md",
-    "日记",
-    "未命名.canvas",
-    "信息系统/可以随手逛逛的网站.md",
-    "开发技术/分布式数据库",
-    "开发技术/数据库",
-    "开发技术",
+    "主线支线任务/主线.md",
+    "主线支线任务/临时线.md",
+    "Life/事业/金融/A股/杂乱信息暂时全部放这里.md",
+    "Life/事业/金融/A股/学习资源.md",
+    "Life/事业/信息系统/可以随手逛逛的网站.md",
     "金融系统/金融体系总结.md",
-    "信息系统",
-    "未命名.md",
-    "未命名.base",
-    "金融系统"
+    "Life/事业/信息系统/未命名.md",
+    "Life/事业/自媒体/Vlog/Vlog.md",
+    "Life/事业/信息系统/信息系统.md",
+    "Life/事业/自媒体/Vlog/test.md",
+    "自媒体/抖音/期末周skill.md",
+    "Life/事业/创业/数字游民.md",
+    "Life/事业/信息系统",
+    "Life/事业/个人素养/收入结构.md",
+    "Life/事业/创业/想法合集.md",
+    "Life/事业/创业",
+    "Life/事业/自媒体/Blog",
+    "Life/事业/自媒体/Vlog",
+    "Life/事业/自媒体",
+    "Life/事业/金融/A股/短线打法.md",
+    "Life/事业/金融/A股/操作实例.md",
+    "Life/事业/金融/国际资产.md",
+    "Life/事业/金融/A股",
+    "Life/事业/CS/开发/八股/计算机网络.md",
+    "Life/事业/金融",
+    "Assets/Pasted image 20260628212423.png",
+    "Assets/Pasted image 20260628212646.png",
+    "Assets",
+    "Assets/Pasted image 20260628212624.png",
+    "Assets/Pasted image 20260628212612.png",
+    "Assets/Pasted image 20260628212535.png",
+    "Assets/Pasted image 20260628212525.png",
+    "Assets/Pasted image 20260628212510.png",
+    "Assets/Pasted image 20260628212504.png",
+    "Life/事业/CS/AI/AI时代的感悟.md",
+    "Life/事业/CS/开发/资源.md",
+    "Life/事业/CS/开发/前端/UIUX设计.md",
+    "Life/事业/CS/开发/数据库/PostgreSQL数据库.md",
+    "Life/事业/CS/开发/八股",
+    "Life/事业/CS/AI/AI工具.md",
+    "Life/事业/CS/开发/数据库",
+    "Life/事业/个人素养/如何学习.md",
+    "Life/生活/理想的生活模式.md",
+    "Life/生活/社交/导读.md",
+    "未命名.canvas"
   ]
 }
