@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "主线支线任务/临时线.md",
+                "file": "Life/事业/科研/ToolRetrievalCL/toolretrievalCL框架.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "临时线"
+              "title": "toolretrievalCL框架"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "主线支线任务/临时线.md",
+                "file": "Life/事业/科研/ToolRetrievalCL/toolretrievalCL框架.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "临时线 的大纲"
+              "title": "toolretrievalCL框架 的大纲"
             }
           }
         ],
@@ -185,8 +185,11 @@
   },
   "active": "b134c71373890d5a",
   "lastOpenFiles": [
-    "主线支线任务/主线.md",
     "主线支线任务/临时线.md",
+    "Life/事业/科研/ToolRetrievalCL/toolretrievalCL框架.md",
+    "Life/事业/科研/ToolRetrievalCL",
+    "Life/事业/科研",
+    "主线支线任务/主线.md",
     "Life/事业/金融/A股/杂乱信息暂时全部放这里.md",
     "Life/事业/金融/A股/学习资源.md",
     "Life/事业/信息系统/可以随手逛逛的网站.md",
@@ -223,12 +226,9 @@
     "Life/事业/CS/开发/资源.md",
     "Life/事业/CS/开发/前端/UIUX设计.md",
     "Life/事业/CS/开发/数据库/PostgreSQL数据库.md",
-    "Life/事业/CS/开发/八股",
     "Life/事业/CS/AI/AI工具.md",
-    "Life/事业/CS/开发/数据库",
     "Life/事业/个人素养/如何学习.md",
     "Life/生活/理想的生活模式.md",
-    "Life/生活/社交/导读.md",
     "未命名.canvas"
   ]
 }
