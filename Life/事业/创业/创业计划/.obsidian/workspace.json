@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "f2bed61a43a5037a",
+    "type": "split",
+    "children": [
+      {
+        "id": "19d43afada424721",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efe9f8112b78e752",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电商信息系统/外贸-电商 系统总览.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "外贸-电商 系统总览"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0dd4120e1843787f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f46e6ab75acaa38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddb77b3d7a858895",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8a1c410809e6bfa4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8eba923fe1ad722f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc86f6900024d7b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ac958a4a4f9e453",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "125b8aa607a0cba8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "电商信息系统/外贸-电商 系统总览.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "外贸-电商 系统总览 的反向链接列表"
+            }
+          },
+          {
+            "id": "ce851b80e6923074",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "电商信息系统/外贸-电商 系统总览.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "外贸-电商 系统总览 的出链列表"
+            }
+          },
+          {
+            "id": "f6afa4b05952321e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "04c5726fb872f009",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "695c292a563fae5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "电商信息系统/外贸-电商 系统总览.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "外贸-电商 系统总览 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "ddb77b3d7a858895",
+  "lastOpenFiles": [
+    "知识库/App开发",
+    "知识库/未命名.md",
+    "电商信息系统/外贸-电商 系统总览.md",
+    "知识库",
+    "电商信息系统/Forecast预测系统.md",
+    "电商信息系统/BI 数据面板.md",
+    "电商信息系统/ERP 订单系统.md",
+    "电商信息系统/WMS 仓储.md",
+    "电商信息系统/SCP 供应链.md",
+    "选品工具/选品agent.md",
+    "电商信息系统",
+    "本地生活营销/本地生活营销.md",
+    "选品工具",
+    "做一些有意思可交互的定制礼物",
+    "portlio/个人作品集网站开发.md",
+    "本地生活营销"
+  ]
+}
